@@ -30,7 +30,7 @@ The Model Will Detect Two Features at a Same Time From a Photo : That is to Dete
 
 ## **Model Prediction!**
 
-**Here, are Some Sample Images Predicted Byt The Model!**
+**Here, are Some Sample Images Predicted By The Model!**
 
 ![](https://github.com/srajan-kiyotaka/Creating-Multi-Task-Models-With-Keras/blob/master/sample/grid.png?raw=true)
 
