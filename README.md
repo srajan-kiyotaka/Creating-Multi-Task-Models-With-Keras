@@ -1,6 +1,6 @@
 # **Creating Multi Task Models With Keras**
 
-## **About The Project**
+## **About The Project!**
 
 I used the keras and Tensorflow Library, To build a Deep Learning Neural Network to Creating Multi Task Models.
 
@@ -14,7 +14,7 @@ The Model Will Detect Two Features at a Same Time From a Photo : That is to Dete
 
 ## **Visual Representation!**
 
-**Here, The Image Contain The Noice and a Predominant Colour.**
+**Here, The Image Contain Some Noice and a Predominant Colour.**
 
 ![](https://github.com/srajan-kiyotaka/Creating-Multi-Task-Models-With-Keras/blob/master/sample/output_1.png?raw=true)
 
@@ -24,7 +24,7 @@ The Model Will Detect Two Features at a Same Time From a Photo : That is to Dete
 
 ## **Model Architecture!**
 
-**The Below Image Represent The Architecture as well as The Flow of The Deep Neural Networ!**
+**The Below Image Represent The Architecture as well as The Flow of The Deep Neural Network!**
 
 ![](https://github.com/srajan-kiyotaka/Creating-Multi-Task-Models-With-Keras/blob/master/sample/flow.png?raw=true)
 
@@ -34,6 +34,6 @@ The Model Will Detect Two Features at a Same Time From a Photo : That is to Dete
 
 ![](https://github.com/srajan-kiyotaka/Creating-Multi-Task-Models-With-Keras/blob/master/sample/grid.png?raw=true)
 
-## **Acknowledgements**
+## **Acknowledgement**
 
 - **Starter notebook for the Coursera Guided Project** [Creating Multi Task Models With Keras](https://www.coursera.org/projects/multi-task-models-keras)
