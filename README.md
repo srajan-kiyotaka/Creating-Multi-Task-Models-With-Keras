@@ -32,4 +32,4 @@ The Model Will Detect Two Features at a Same Time From a Photo : That is to Dete
 
 ## **Acknowledgement**
 
-- **Starter notebook for the Coursera Guided Project** [Creating Multi Task Models With Keras](https://www.coursera.org/projects/multi-task-models-keras)
+- **The Coursera Guided Project** [Creating Multi Task Models With Keras](https://www.coursera.org/projects/multi-task-models-keras)
