@@ -4,11 +4,7 @@
 
 I used the keras and Tensorflow Library, To build a Deep Learning Neural Network to Creating Multi Task Models.
 
-<br>
-
 I used anaconda jupyter notebook but google colab can also be used.
-
-<br>
 
 The Model Will Detect Two Features at a Same Time From a Photo : That is to Determine The Number and The Predominant Colour. We used The Mnist Dataset.
 
