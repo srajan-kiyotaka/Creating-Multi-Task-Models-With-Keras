@@ -2,7 +2,7 @@
 
 ## **About The Project!**
 
-I used the keras and Tensorflow Library, To build a Deep Learning Neural Network to Creating Multi Task Models.
+I used the Keras and Tensorflow Library, To build a Deep Neural Network to Create a Multi-Task Model.
 
 I used anaconda jupyter notebook but google colab can also be used.
 
