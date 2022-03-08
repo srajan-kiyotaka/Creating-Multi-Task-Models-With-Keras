@@ -18,13 +18,13 @@ The Model Will Detect Two Features at a Same Time From a Photo : That is to Dete
 
 ![](https://github.com/srajan-kiyotaka/Creating-Multi-Task-Models-With-Keras/blob/master/sample/output_2.png?raw=true)
 
-## **Model Architecture!**
+## **`Model Architecture!`**
 
 **The Below Image Represent The Architecture as well as The Flow of The Deep Neural Network!**
 
 ![](https://github.com/srajan-kiyotaka/Creating-Multi-Task-Models-With-Keras/blob/master/sample/flow.png?raw=true)
 
-## **Model Prediction!**
+## **`Model Prediction!`**
 
 **Here, are Some Sample Images Predicted By The Model!**
 
